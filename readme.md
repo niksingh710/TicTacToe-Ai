@@ -25,4 +25,4 @@ python play.py -t=100
 
 ## Preview
 
-![Here should be preview](https://github.com/niksingh710/learn/blob/master/TicTacToe/preview.png?raw=true)
+![Here should be preview](https://github.com/niksingh710/TicTacToe-Ai/blob/master/preview.png)
