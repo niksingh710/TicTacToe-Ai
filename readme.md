@@ -1,8 +1,8 @@
-# CLI Minesweeper
+# CLI TicTacToe
 
 Just a python practice program
 
-cli based Mine sweeper game
+cli based TicTacToe game
 
 ```bash
 # args are optional -h menu can be used to get more info
